@@ -1,0 +1,19 @@
+{
+  "name": "ajax-blog",
+  "version": "1.0.0",
+  "description": "A generally useful, lightweight blog app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperrex/AJAX-Blog.git"
+  },
+  "author": "Wendell Yamada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperrex/AJAX-Blog/issues"
+  },
+  "homepage": "https://github.com/hyperrex/AJAX-Blog#readme"
+}
